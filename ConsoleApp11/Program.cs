@@ -11,7 +11,7 @@ namespace ConsoleApp11
         static void Main(string[] args)
         {
             //This is first commit
-            Console.WriteLine("hello world");
+            Console.WriteLine("my first commit");
             Console.ReadLine();
         }
         public void printHelloWorld()
