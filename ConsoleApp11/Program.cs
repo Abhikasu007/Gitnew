@@ -10,8 +10,13 @@ namespace ConsoleApp11
     {
         static void Main(string[] args)
         {
+            //This is first commit
             Console.WriteLine("hello world");
             Console.ReadLine();
+        }
+        public void printHelloWorld()
+        {
+            Console.WriteLine("hello world");
         }
     }
 }
